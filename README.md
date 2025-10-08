@@ -14,13 +14,6 @@ TECNOLOGÍAS QUE DOMINO:
 
 <h3 align="left">Tecnologías</h3>
 
-###
-![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular)
-![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
-![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Bootstrap5](https://img.shields.io/badge/-Bootstrap5-000?&logo=Bootstrap)
-![Jquery](https://img.shields.io/badge/-Jquery-000?&logo=Jquery)
-
 <h3 align="left">Bases de Datos</h3>
 
 ###
@@ -31,9 +24,6 @@ TECNOLOGÍAS QUE DOMINO:
 
 
 <h3 align="left">Contáctame En:</h3>
-<a href="mailto:alexandrucruceat@gmail.com" target="_blank">
+<a href="mailto:javisaos28@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" alt="gmail logo"  />
-</a>
-<a href="https://www.linkedin.com/in/alexcruceat" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" alt="linkedin logo"  />
-</a>
+
