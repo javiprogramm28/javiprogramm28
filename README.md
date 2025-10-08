@@ -12,7 +12,6 @@ TECNOLOGÍAS QUE DOMINO:
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=white)
 
-<h3 align="left">Tecnologías</h3>
 
 <h3 align="left">Bases de Datos</h3>
 
